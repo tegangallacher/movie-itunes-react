@@ -1,0 +1,8 @@
+body {
+  display: flex;
+  flex-direction: column;
+  padding-right: 50%;
+  color: white;
+  font-family: helvetica;
+  background-color: darkslategrey;
+}
